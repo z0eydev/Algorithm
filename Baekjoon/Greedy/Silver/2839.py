@@ -1,4 +1,4 @@
-# 백준 silver5 설탕 배달
+# 백준 silver4 설탕 배달
 
 # input 값
 N = int(input())
