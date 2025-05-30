@@ -1,4 +1,5 @@
-# 백준 silver4 설탕 배달
+# https://www.acmicpc.net/problem/2839
+# 백준 silver4 설탕 배달(파이썬)
 
 # input 값
 N = int(input())
