@@ -1,3 +1,4 @@
+# https://www.acmicpc.net/problem/1715
 # 백준 gold4 카드 정렬하기
 from heapq import heappop, heappush
 
