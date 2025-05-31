@@ -1,3 +1,4 @@
+# https://www.acmicpc.net/problem/1931
 # 백준 gold5 회의실 배정
 
 N = int(input())
