@@ -1,3 +1,6 @@
+// https://www.acmicpc.net/problem/12865
+// 백준 gold5 평범한 배낭 DP
+
 package Baekjoon.DP.Gold;
 
 import java.io.BufferedReader;

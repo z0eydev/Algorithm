@@ -1,3 +1,6 @@
+// https://www.acmicpc.net/problem/11729
+// 백준 gold5 하노이탑 이동 순서 Recrusion
+
 package Baekjoon.Recursion.Gold;
 
 import java.io.BufferedReader;
