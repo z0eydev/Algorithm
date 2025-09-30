@@ -1,5 +1,4 @@
 package KAKAO.KAKAO_BLIND_RECRUITMENT_2023;
-import java.util.*;
 
 public class lv2_1 {
         static public int[] round(int[] l, int n, int total){
